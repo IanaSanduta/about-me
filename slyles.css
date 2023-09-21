@@ -1,0 +1,16 @@
+body {background-color: white;}
+nav    {color: black;
+        background-color: black;
+    padding: 8px;}
+a {
+        padding: 8px;
+        color: white;
+        }
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 4px;
+        }
+li {
+        display: inline;
+        }
